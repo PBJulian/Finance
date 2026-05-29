@@ -4,6 +4,20 @@ Repositorio académico que contiene todo el material del curso de **Introducció
 
 ## Estructura del repositorio
 
+### 📁 Guía General
+
+Contiene el material principal del curso y abarca temas como:
+
+* Interés simple y compuesto
+* Valor del dinero en el tiempo
+* Anualidades
+* Bonos
+* Valuación financiera
+* Riesgo y rendimiento
+* Conceptos financieros generales
+* Ejercicios y procedimientos matemáticos
+* Parte teórica vista durante el semestre
+
 ### 📁 Portafolios
 
 Contiene todo el material relacionado con:
@@ -15,18 +29,6 @@ Contiene todo el material relacionado con:
 * Covarianzas y correlaciones
 * Frontera eficiente
 * Modelos financieros relacionados
-
-### 📁 Matemáticas Financieras
-
-Incluye los temas cuantitativos y ejercicios prácticos del curso:
-
-* Interés simple y compuesto
-* Valor del dinero en el tiempo
-* Anualidades
-* Bonos
-* Amortizaciones
-* Valuación financiera
-* Fórmulas y procedimientos matemáticos
 
 ### 📁 Teoría
 
